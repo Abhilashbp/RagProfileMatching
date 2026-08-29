@@ -1,0 +1,30 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy machine learning solutions and data-driven applications.
+
+Must-Have Requirements:
+
+* 3+ years of professional experience
+* 3+ years of Python experience
+* Strong Python programming skills
+* Machine Learning and Deep Learning experience
+* Experience with SQL
+* Experience with pandas and NumPy
+* Understanding of machine learning algorithms and model evaluation
+
+Nice-to-Have:
+
+* TensorFlow or PyTorch
+* AWS or Azure
+* Docker
+* Kubernetes
+* MLOps experience
+
+Responsibilities:
+
+* Develop and evaluate machine learning models.
+* Prepare and analyze large datasets.
+* Build machine learning pipelines using Python.
+* Deploy models into production environments.
+* Collaborate with data scientists and software engineers.
+* Monitor and improve model performance.

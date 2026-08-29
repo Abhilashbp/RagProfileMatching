@@ -1,0 +1,31 @@
+DevOps Engineer
+
+We are looking for a DevOps Engineer to automate deployment, infrastructure, and software delivery processes.
+
+Must-Have Requirements:
+
+* 3+ years of DevOps or cloud engineering experience
+* Strong experience with AWS or Azure
+* Docker experience
+* Kubernetes experience
+* CI/CD pipeline experience
+* Strong Linux knowledge
+* Experience with Git
+
+Nice-to-Have:
+
+* Terraform
+* Ansible
+* Jenkins
+* GitHub Actions
+* Python scripting
+* Prometheus and Grafana
+
+Responsibilities:
+
+* Build and maintain CI/CD pipelines.
+* Automate infrastructure and deployments.
+* Manage cloud infrastructure.
+* Deploy and manage containerized applications.
+* Monitor application and infrastructure health.
+* Improve system reliability and deployment processes.

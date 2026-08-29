@@ -1,0 +1,31 @@
+Data Engineer
+
+We are looking for a Data Engineer to design and maintain reliable data pipelines and data processing systems.
+
+Must-Have Requirements:
+
+* 3+ years of data engineering experience
+* Strong Python experience
+* Strong SQL experience
+* Experience building ETL or ELT pipelines
+* Experience with relational databases
+* Understanding of data warehousing concepts
+* Experience working with large datasets
+
+Nice-to-Have:
+
+* Apache Spark
+* Databricks
+* AWS
+* Azure
+* Airflow
+* Kafka
+
+Responsibilities:
+
+* Build and maintain scalable data pipelines.
+* Develop ETL and ELT processes.
+* Transform and validate data.
+* Optimize SQL queries and data processing jobs.
+* Work with analysts and data scientists.
+* Monitor data pipeline reliability and performance.

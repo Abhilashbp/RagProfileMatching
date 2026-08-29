@@ -1,0 +1,31 @@
+Senior .NET Backend Developer
+
+We are looking for a Senior .NET Backend Developer to build scalable enterprise backend applications and APIs.
+
+Must-Have Requirements:
+
+* 5+ years of software development experience
+* 4+ years of .NET or C# experience
+* Strong C# and ASP.NET Core experience
+* Strong experience building REST APIs
+* Strong SQL Server experience
+* Experience with Entity Framework Core
+* Experience with Git
+
+Nice-to-Have:
+
+* Azure
+* Docker
+* Kubernetes
+* Microservices
+* CI/CD
+* Redis
+
+Responsibilities:
+
+* Develop scalable backend applications using C# and ASP.NET Core.
+* Design and implement REST APIs.
+* Work with SQL Server and optimize database queries.
+* Develop unit and integration tests.
+* Participate in code reviews.
+* Work with frontend and DevOps teams.

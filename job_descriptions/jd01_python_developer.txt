@@ -1,0 +1,30 @@
+Senior Python Developer
+
+We are looking for a Senior Python Developer to design, develop, and maintain scalable backend applications and REST APIs.
+
+Must-Have Requirements:
+
+* 5+ years of professional software development experience
+* 4+ years of Python experience
+* Strong experience with Python, FastAPI or Django
+* Strong knowledge of REST APIs
+* Experience with SQL databases
+* Experience with Git
+* Good understanding of software development best practices
+
+Nice-to-Have:
+
+* AWS experience
+* Docker
+* Kubernetes
+* Microservices architecture
+* CI/CD pipelines
+
+Responsibilities:
+
+* Design and develop scalable backend services using Python.
+* Build and maintain REST APIs.
+* Work with SQL databases and optimize queries.
+* Write clean, maintainable, and testable code.
+* Collaborate with engineering teams to deliver production applications.
+* Participate in code reviews and technical discussions.
