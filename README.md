@@ -63,3 +63,50 @@ Candidate Scoring
     |
     v
 Top 10 Matches
+
+## LangGraph Agent
+
+The project also includes a conversational resume matching agent implemented using LangGraph.
+
+The agent maintains an `AgentState` containing:
+
+- Conversation history
+- Job description
+- Extracted requirements
+- Candidate shortlist
+- Candidate reasoning
+- Final report
+- Human feedback
+
+### Agent Workflow
+
+```text
+START
+  |
+  v
+Parse JD
+  |
+  v
+Extract Requirements
+  |
+  v
+Search Resumes
+(RAG + ChromaDB)
+  |
+  v
+Rank Candidates
+  |
+  v
+Generate Report
+  |
+  v
+Human Feedback / Refinement
+  |
+  v
+Deep Candidate Analysis
+  |
+  v
+Final Screening Recommendation
+  |
+  v
+END
