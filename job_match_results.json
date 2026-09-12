@@ -1,18 +1,21 @@
 {
-  "job_description": "DevOps Engineer\n\nWe are looking for a DevOps Engineer to automate deployment, infrastructure, and software delivery processes.\n\nMust-Have Requirements:\n\n* 3+ years of DevOps or cloud engineering experience\n* Strong experience with AWS or Azure\n* Docker experience\n* Kubernetes experience\n* CI/CD pipeline experience\n* Strong Linux knowledge\n* Experience with Git\n\nNice-to-Have:\n\n* Terraform\n* Ansible\n* Jenkins\n* GitHub Actions\n* Python scripting\n* Prometheus and Grafana\n\nResponsibilities:\n\n* Build and maintain CI/CD pipelines.\n* Automate infrastructure and deployments.\n* Manage cloud infrastructure.\n* Deploy and manage containerized applications.\n* Monitor application and infrastructure health.\n* Improve system reliability and deployment processes.\n",
+  "job_description": "Senior Python Developer\n\nWe are looking for a Senior Python Developer to design, develop, and maintain scalable backend applications and REST APIs.\n\nMust-Have Requirements:\n\n* 5+ years of professional software development experience\n* 4+ years of Python experience\n* Strong experience with Python, FastAPI or Django\n* Strong knowledge of REST APIs\n* Experience with SQL databases\n* Experience with Git\n* Good understanding of software development best practices\n\nNice-to-Have:\n\n* AWS experience\n* Docker\n* Kubernetes\n* Microservices architecture\n* CI/CD pipelines\n\nResponsibilities:\n\n* Design and develop scalable backend services using Python.\n* Build and maintain REST APIs.\n* Work with SQL databases and optimize queries.\n* Write clean, maintainable, and testable code.\n* Collaborate with engineering teams to deliver production applications.\n* Participate in code reviews and technical discussions.\n",
   "top_matches": [
     {
       "candidate_name": "SOFTWARE ENGINEERING ANALYST",
       "resume_path": "resumes\\32985311.pdf",
-      "match_score": 19.6,
+      "match_score": 10.2,
       "matched_skills": [
-        "Python"
+        "Python",
+        "SQL",
+        "Software Development"
       ],
       "relevant_excerpts": [
-        "Skills\nautomation tools, business processes, C, Chemistry, CRM, client, English, event management, functional, HP, image, team lead, machinery,\nMathematics, MS office, Oil, developer, Physics, Programming, progress, Project management, Python, QTP, Quick Test Professional, Quality,\nquality assurance, simulation, SQL, Tableau, VB script\nAdditional Information\nAWARDS AND RECOGNITION Accenture Outstanding Performer Award. Awarded Certificate of appreciation by Enactus India to\nbring a change using entrepreneurial action. Awarded Certificate of appreciation by Thapar University to organize first economics festival of\nthe University.\nEcon Club - Coordinated events like Economics quiz, Virtual Sto",
-        "Skills\nProgramming Languages: C, SQL, Python, R, Tableau developer Tools: HP ALM Quality center, HP QTP, MS office, Trello- Project\nmanagement tool, Streak CRM.\nAccomplishments\nCertifications: Coursera Introduction to interactive programming using Python,Rice University; Udemy certified SQL."
+        "Skills\nProgramming Languages: C, SQL, Python, R, Tableau developer Tools: HP ALM Quality center, HP QTP, MS office, Trello- Project\nmanagement tool, Streak CRM.\nAccomplishments\nCertifications: Coursera Introduction to interactive programming using Python,Rice University; Udemy certified SQL.",
+        "SOFTWARE ENGINEERING ANALYST",
+        "Experience\n02/2017 to 07/2017\nSoftware Engineering Analyst Company Name ï¼ City , State\nEnactus chapter of Thapar University Founded project Soul of the clay as the team lead of Enactus to aid the artisans by up skilling them\nwith modern day techniques, thereby increasing the income of these artisans by 150%.\nExecuted project Naritva, where I along with my team implemented a socio-economic business model in order to improve women sanitation\nin rural areas of India with motive to reduce diseases prevalent among rural women.\nExecuted project Jaivika to bolster farmers by setting up machinery to produce low cost manure from organic waste.\nStudent Alumni Interaction Cell - Administered alumni re"
       ],
-      "reasoning": "Matched requirements: Python. Missing critical requirements: Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "reasoning": "Matched requirements: Python, SQL, Software Development. Missing critical requirements: FastAPI or Django, REST APIs, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
       "experience_years": 0.0,
       "python_experience_years": 0.0,
@@ -25,13 +28,17 @@
     {
       "candidate_name": "ENGINEERING SYSTEMS INSTALLER",
       "resume_path": "resumes\\35389360.pdf",
-      "match_score": 8.1,
-      "matched_skills": [],
+      "match_score": 7.1,
+      "matched_skills": [
+        "SQL",
+        "Software Development"
+      ],
       "relevant_excerpts": [
         "Mac os, apple and android IOS, web development, application development, Linux, Microsoft applications, managing, testing, client support, help\ndesk, technical support, troubleshooting, and leadership skills,. To benefit those who I work for as well as myself. By combining these synergies, I\nbelieve I can be of great value to this company.\nHighlights\nMicrosoft Applications (Word, Excel, PowerPoint, Access, Exchange, InfoPath, Lync, Onenote, Outlook, Project, Publisher,\nSharepoint(s), Visual Studios, ETC): Expert\nNetwork Security (not certified/in process): Expert\nNetworking: Expert\nPC hardware and software installation, configuration, and troubleshooting: Expert\nRemote Desktop and Help Desk ",
-        "processes.\nTroubleshoot as needed Experience working with network routers.\nOperated Switches, Cisco ASA firewall, Juniper Net-screen, CheckPoint firewall, Enterasys Dragon IDS/IPS.\nDatabase managing.\nWorked alongside a team of technical analysts and other technicians on PC refresh projects throughout the building managed virtual private\nnetworks for different clients.\nRedesign of the network to keep up with the changing needs of the organization.\nDelivered and collaborated on the design, implementation and support of network core routing, switching infrastructure, Remote Access,\nB2B VPN, and security services for our customers Installed Home automation systems, Home surveillance, and Custom "
+        "Certifications\nExpert Organized : Expert Collaboration : Expert Time Card/Management: Expert Accounting: Expert Process Improvements: Advanced Mobile\nApp Development: Expert Analysis: Advanced Network Administration: Advanced Web Development: Advanced PHP, HTML HTML5, Css,\nCss3, Mysql, java, Php Frameworks, & Jquery:: Advanced Sales: Advanced VPN: Advanced Linux: Intermediate",
+        "Summary\nSeasoned Information Technology professional with over 7 plus years of experience working in various industries. Excellent knowledge on\ncomputer hardware, software, peripherals, central processing units, network administration, servers, network routers, Microsoft applications,\ntechnology support specialist, Windows OS, Windows Server, Mac OS, Managing, QA testing, client support, and help desk. Also highly\nexperienced in procedures for installing, configuring, upgrading, troubleshooting and repairing applicable software, hardware and peripherals.\nExcellent communication and interpersonal skills. Professional work ethic, strong attention to detail and an ability to produce top quality"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "reasoning": "Matched requirements: SQL, Software Development. Missing critical requirements: Python, FastAPI or Django, REST APIs, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
       "experience_years": 0.0,
       "python_experience_years": 0.0,
@@ -43,156 +50,164 @@
       ]
     },
     {
-      "candidate_name": "PROCESS ENGINEERING INTERN",
-      "resume_path": "resumes\\35172961.pdf",
-      "match_score": 8.0,
+      "candidate_name": "HR SPECIALIST",
+      "resume_path": "resumes\\51769822.pdf",
+      "match_score": 5.8,
       "matched_skills": [],
       "relevant_excerpts": [
-        "PROCESS ENGINEERING INTERN",
-        "Profile\nPhD cleanroom expert looking for an opportunity to work as a full- time module/process engineer in Lam Research Experience working in both a\nresearch cleanroom facility and a semiconductor fab. Hands on experience with fabrication methods such as plasma etching, photolithography, wet\netch processing, and PVD Well understanding of Statistical Process Control (SPC) and Design of Experiments (DOE)"
+        "Summary\nEnergetic Administrative Assistant with 30+ years experience in high-level executive support roles. Organized and professional. Dedicated and\nfocused, who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of\nincreased responsibility and authority. Adept at managing multiple projects with ease using expert time management methods.\nHighlights\nAdministration/\nAccounting/HR.\nAdministration / Office support Purchasing, Inventory (PO/PR)\nAccounting/HR: Payroll - Billing - Collection Sales Management\n/ Marketing /\nReal Estate / Leasing\nCommercial & Technical Translations Customer Service\ncertified\nStrong organizat",
+        "Experience\nHR Specialist\nJune 2014 to June 2014 Company Name ï¼ City , State\nCoordinated regular and temporary interviews for line management.\nConducted reference check vetting on potential candidates.\nInteracted with potential employees, notifying them on application status and necessary information to complete application process.\nAssisted various departmental functions with payroll, employee relations and compensation files, filing confidential documents.\nLeasing Agent\nOctober 2012 to April 2014 Company Name ï¼ City , State\nGreeting future residents, answering all questions regarding leasing, presenting models,.\ntaking applications, following up with guests' walk-in, filing, taking work-o"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "reasoning": "Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 30.0 years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
-      "experience_years": 0.0,
+      "experience_years": 30.0,
       "python_experience_years": 0.0,
       "matched_sections": [
-        "general",
+        "experience",
         "summary"
       ]
     },
     {
-      "candidate_name": "HEALTHCARE RECRUITER",
-      "resume_path": "resumes\\11378657.pdf",
-      "match_score": 8.0,
+      "candidate_name": "MANAGER QUALITY ENGINEERING",
+      "resume_path": "resumes\\33685075.pdf",
+      "match_score": 5.7,
       "matched_skills": [],
       "relevant_excerpts": [
-        "Skills\nExcellent interpersonal, HR and administrative skills\nIntermediate experience with MicroSoft Office programs\nMotivated team member, who understands the value of providing accurate, professional,\nadmin support\nTeam leadership experience\nData management skills\nStrong verbal communication skills\nAdept at client needs assessment and\nanalysis",
-        "Skills\nadministrative skills, admin support, benefits, benefits administration, interpersonal, credit, client, hiring, HR, Insurance, interpretation, Excel,\nMicroSoft Office programs, PowerPoint, MSWord, processes, Radiology, recruiting, recruitment, staffing"
+        "MANAGER, QUALITY ENGINEERING\nExecutive Summary\nWith over 14 years of experience in the fields of Class II and III medical device manufacturing, molecular diagnostics, and biotechnology; the last 8\nof which have been managing engineers, technicians as well as supervisors, I bring strong technical leadership to any organization. I have a solid\nbackground in data analysis and statistics that I use to develop and continuously improve all aspects of the manufacturing process with a focus on\nefficiency and consistency.\nCore Qualifications\nProEngineer/CREO, MiniTab, MS Office Suite, MS Project, MS Visio, Injection Molding, Trackwise, Catsweb"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "reasoning": "Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 14.0 years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
-      "experience_years": 0.0,
+      "experience_years": 14.0,
       "python_experience_years": 0.0,
       "matched_sections": [
-        "experience",
-        "general",
-        "skills"
-      ]
-    },
-    {
-      "candidate_name": "team members.",
-      "resume_path": "resumes\\32081266.pdf",
-      "match_score": 7.9,
-      "matched_skills": [],
-      "relevant_excerpts": [
-        "MANAGER ENGINEERING MANUFACTURING SYSTEMS ENGINEERING MANAGER",
-        "Experience\nCompany Name City , State Manager Engineering Manufacturing Systems Engineering Manager 08/2015\nDrafted action plans and led collaboration meetings with functional organization executives to review project status and proposed changes.\nCollaborated with cross-functional teams to draft project schedules and plans.\nManage a team of 8 direct Manufacturing Systems Engineering (MSE) leads within the Manufacturing Engineering (ME) organization that\nare responsible for developing, maintaining, and integrating web tools to be used by manufacturing, engineering, and business systems and\nprocesses.\nProvide tactical and strategic IT leadership and coordination for Manufacturing System Enginee"
-      ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
-      "must_have_requirements_met": false,
-      "experience_years": 0.0,
-      "python_experience_years": 0.0,
-      "matched_sections": [
-        "experience",
-        "general"
-      ]
-    },
-    {
-      "candidate_name": "DIRECTOR OF ENGINEERING",
-      "resume_path": "resumes\\35651876.pdf",
-      "match_score": 7.9,
-      "matched_skills": [],
-      "relevant_excerpts": [
-        "DIRECTOR OF ENGINEERING",
-        "Work History\nCurrentChief Engineer , 01/2016\nContinental Luxury Property Management Evaluates electrical systems, products, components, applying knowledge of electricity and\nmaterials.\nInstall, repair, and maintain electrical and air conduction system.\nProvide mentorship to maintenance staff by advising on safety procedure.\nDevelops and maintain positive customer relationship, helping to contribute to company's star rating.\nEvaluate generator load for whole house.\nDirector of Engineering , 01/2014 to 01/2016\nCompany Name\nFamiliar and complies with the hotels mission and standards in performing maintenance activities.\nRepairs wide variety of kitchen and refrigeration equipment such as walk-in"
-      ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
-      "must_have_requirements_met": false,
-      "experience_years": 0.0,
-      "python_experience_years": 0.0,
-      "matched_sections": [
-        "experience",
         "general"
       ]
     },
     {
       "candidate_name": "INDUSTRIAL ENGINEERING INTERN",
       "resume_path": "resumes\\31694970.pdf",
-      "match_score": 7.9,
-      "matched_skills": [],
-      "relevant_excerpts": [
-        "Skills\nASP.NET, AutoCAD, budgeting, CNC, Continuous Improvement, data collection, Product Development and Design, documentation, ERP,\ngrinders, Inventory Control, ISO, Languages, lathe, layout, layout design, Logistics, materials, Access, C#, Excel, Ms Office Suite, Outlook,\nPowerPoint, Word, new product development, payroll, philosophy, process improvement, process design, processes, Project Management,\nproject plans, quality, quality control, research, Safety, SAP, SAS, simulation, Six Sigma, SQL, Statistical Process Control, Supply Chain, Visio,\nVisual Basic, Visual Basic 6, Ms Visual Studio, written",
-        "Profile\nOutstanding productivity as high potential project supervisor and design engineer. Solid analytic and communication skills to resolve complex\nproblems quickly and efficiently. Dynamic team leader with front-line experience in motivating team workers towards achieving specific goals.\nHands-on experience in data analysis, discrete event simulations, manufacturing processes, process improvement, machine shop practices, welding\nand fabrication, and quality control. Exceptional project management skills utilizing customer commitment, team work, communication, planning\nand organization to achieve excellence."
+      "match_score": 4.5,
+      "matched_skills": [
+        "SQL"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "relevant_excerpts": [
+        "Skills\nASP.NET, AutoCAD, budgeting, CNC, Continuous Improvement, data collection, Product Development and Design, documentation, ERP,\ngrinders, Inventory Control, ISO, Languages, lathe, layout, layout design, Logistics, materials, Access, C#, Excel, Ms Office Suite, Outlook,\nPowerPoint, Word, new product development, payroll, philosophy, process improvement, process design, processes, Project Management,\nproject plans, quality, quality control, research, Safety, SAP, SAS, simulation, Six Sigma, SQL, Statistical Process Control, Supply Chain, Visio,\nVisual Basic, Visual Basic 6, Ms Visual Studio, written"
+      ],
+      "reasoning": "Matched requirements: SQL. Missing critical requirements: Python, FastAPI or Django, REST APIs, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
       "experience_years": 0.0,
       "python_experience_years": 0.0,
       "matched_sections": [
-        "general",
+        "experience",
         "skills",
         "summary"
       ]
     },
     {
-      "candidate_name": "ENGINEERING OFFICE CLERK",
-      "resume_path": "resumes\\32802563.pdf",
-      "match_score": 7.8,
-      "matched_skills": [],
-      "relevant_excerpts": [
-        "Skills\nExperienced with Microsoft Office - Word, Excel, Outlook, SharePoint & Costpoint,\nAdministrative Assistant, benefits, clerical, clients, data entry, database, features, filing, forms, GIS, Mailing, meetings, Excel, Mail, Outlook,\nSharePoint, Microsoft Office - Word, office equipment, policies, Processes, reception, recording, retail, Scanning, telephone, phone, typing"
+      "candidate_name": "team members.",
+      "resume_path": "resumes\\32081266.pdf",
+      "match_score": 4.2,
+      "matched_skills": [
+        "Software Development"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "relevant_excerpts": [
+        "new projects.\nDeveloped and administered sector wide training classes for SharePoint 2010.\nDelivery includes campus-based and virtually led SharePoint classes containing 15 participants per class.\nCompany Name City , State Business Process Analyst 12/2012 to 04/2014\nPlanned, monitored, and tracked assigned change request progress for quarterly software development lifecycle release schedules.\nProactively identify and resolve issues, escalate problems, and facilitate cross-team coordination in support of the Medicare Beneficiary\nDatabase Suite of Systems (MBDSS), under the direction of the Centers for Medicare and Medicaid Services (CMS) as well as the Social\nSecurity Administration (SSA).\nSe"
+      ],
+      "reasoning": "Matched requirements: Software Development. Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
       "experience_years": 0.0,
       "python_experience_years": 0.0,
       "matched_sections": [
-        "skills"
+        "experience"
       ]
     },
     {
-      "candidate_name": "PROVEN ADMINISTRATIVE HIGHLY ORGANIZED",
-      "resume_path": "resumes\\10466208.pdf",
-      "match_score": 7.8,
-      "matched_skills": [],
-      "relevant_excerpts": [
-        "Skills\nAccount Management, acquisitions, ADMINISTRATIVE, contracts, clientele, customer satisfaction, customer\nSsatisfaction, decision making, DOCUMENTATION, EVENT PLANNING, inventory, TEAM LEADERSHIP, LEADERSHIP, Director,\nmanaging, marketing plans, marketing, market, mergers, communicator, organizational skills, problem-solving, PUBLIC SPEAKING, recruitment,\nrelationship-building, REPORTING, Sales, STAFFING, strategic, strategic planning, team player\nAdditional Information\nExperienced, multi-faceted business professional with ability to quickly generate business results. Seeking a position with Abbott for the\nTerritory Sales Position in Tacoma,WA.\nAdept at attending job related conventions"
+      "candidate_name": "WEB DESIGNERGRAPHIC DESIGNER",
+      "resume_path": "resumes\\21283733.pdf",
+      "match_score": 4.2,
+      "matched_skills": [
+        "Software Development"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 0.0 years. Candidate does not satisfy all must-have requirements.",
+      "relevant_excerpts": [
+        "Skills\nADA, Photoshop, advertisements, business communications, business development, catalogs, content, Copyediting, CSS, client, clients, database,\ndocumentation, Dreamweaver, editing, fast, finance, Graphic Design, HTML, Illustrator, image, InDesign, layout, legal, director, marketing\nmaterials, Microsoft Excel, Excel, PowerPoint, Microsoft Word, performance reviews, Pearl, personnel, persuasive, Producer, profit, progress,\nproofreading, Proposal, proposal development, publications, publication, quality, quality assurance, QuarkXPress, research, RFI, RFP, sales,\ntranslating, Web Development, Web site design, well-organized, Written"
+      ],
+      "reasoning": "Matched requirements: Software Development. Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
       "experience_years": 0.0,
       "python_experience_years": 0.0,
       "matched_sections": [
-        "skills"
+        "skills",
+        "summary"
       ]
     },
     {
-      "candidate_name": "MANAGER QUALITY ENGINEERING",
-      "resume_path": "resumes\\33685075.pdf",
-      "match_score": 7.8,
+      "candidate_name": "PRE-PRESS GRAPHIC DESIGNER",
+      "resume_path": "resumes\\22506245.pdf",
+      "match_score": 4.1,
+      "matched_skills": [
+        "Software Development"
+      ],
+      "relevant_excerpts": [
+        "Skills\nAdobe InDesign, Photoshop, Illustrator, and Acrobat Professional\nStrongly familiar with Microsoft Word, Excel, PowerPoint, and Publisher / also QuarkXPress\nBasic knowledge of web development with Adobe Dreamweaver, HTML, WordPress\nAble to perform graphic design and administrative functions\nAble to work as a team player and independently\nExperienced using phone, fax, email, copiers and printers\nProvides excellent customer service (in-person, by phone, email, or interoffice mail)\nPrioritizes and calmly handles multiple projects and requests\nListens to directions, takes notes for later reference, follows procedures\nKnowledge of design setup on computer for jobs to be printed by outside v"
+      ],
+      "reasoning": "Matched requirements: Software Development. Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
+      "must_have_requirements_met": false,
+      "experience_years": 0.0,
+      "python_experience_years": 0.0,
+      "matched_sections": [
+        "skills",
+        "summary"
+      ]
+    },
+    {
+      "candidate_name": "HEALTHCARE RECRUITER",
+      "resume_path": "resumes\\11378657.pdf",
+      "match_score": 1.8,
       "matched_skills": [],
       "relevant_excerpts": [
-        "MANAGER, QUALITY ENGINEERING\nExecutive Summary\nWith over 14 years of experience in the fields of Class II and III medical device manufacturing, molecular diagnostics, and biotechnology; the last 8\nof which have been managing engineers, technicians as well as supervisors, I bring strong technical leadership to any organization. I have a solid\nbackground in data analysis and statistics that I use to develop and continuously improve all aspects of the manufacturing process with a focus on\nefficiency and consistency.\nCore Qualifications\nProEngineer/CREO, MiniTab, MS Office Suite, MS Project, MS Visio, Injection Molding, Trackwise, Catsweb",
-        "Skills\nManufacturing, Assembly, Automation, Budget, Calibration, CNC, Coaching, MS Office Suite, MS Project, MS VIsio, MiniTab, Stat Graphics,\nProcess Engineering, Manufacturing process development and improvement, Manufacturing yield improvement, CIP, Pro Engineer/CREO\nAwards and Memberships\nAlcon Special Achievement Award\nGraduated with distinction in Physics\nMember of Sigma Pi Sigma, Physics student honor society"
+        "Skills\nExcellent interpersonal, HR and administrative skills\nIntermediate experience with MicroSoft Office programs\nMotivated team member, who understands the value of providing accurate, professional,\nadmin support\nTeam leadership experience\nData management skills\nStrong verbal communication skills\nAdept at client needs assessment and\nanalysis",
+        "Communicated the duties, compensation, benefits and working conditions to all potential candidates.\nAnalyzed employment-related data and prepared required reports.\nManaged all aspects of the employee life cycle process, including on and off boarding.\nMaintained an accurate candidate tracking system.\nGuided candidates through in-house computer testing.\nSupported management in developing and implementing personnel policies and procedures.\nConducted exit interviews and verified that employment termination paperwork was completed.\nHired employees and initiated the new hire paperwork process.\nDeveloped and facilitated job recruitment fairs.\nOrganized new employee orientation schedules for all new"
       ],
-      "reasoning": "Missing critical requirements: Python, Git. Estimated professional experience: 14.0 years. Candidate does not satisfy all must-have requirements.",
+      "reasoning": "Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
       "must_have_requirements_met": false,
-      "experience_years": 14.0,
+      "experience_years": 0.0,
       "python_experience_years": 0.0,
       "matched_sections": [
         "experience",
-        "general",
-        "skills"
+        "skills",
+        "summary"
+      ]
+    },
+    {
+      "candidate_name": "CHIEF EXECUTIVE OFFICER",
+      "resume_path": "resumes\\10076271.pdf",
+      "match_score": 1.6,
+      "matched_skills": [],
+      "relevant_excerpts": [
+        "Summary\nAward-winning executive and marketing professional experienced in high-volume, multi-unit, retail and business operations in the pharmaceutical,\nfinancial services, and food and beverage industries. Demonstrated expertise in brand development, territory management, sales operations,\nproduct launches, recruiting, and business development. Skilled in utilizing technology as a tool to improve organizational efficiency. Desires a high-\nlevel marketing position in a professional corporate environment.\nHighlights\nBrand Development\nProject Management\nRelationship Management\nTraining & Development\nSales Operations\nMerchandising\nAccomplishments\nIncreased annual sales to nearly $5.7 million th",
+        "Skills\nMicrosoft Office (Excel, Power Point, and Access expertise), Internet, PC/MAC software proficiency, Microsoft Project, Information Resources\nInc, Database, CUE, Quick Books"
+      ],
+      "reasoning": "Missing critical requirements: Python, FastAPI or Django, REST APIs, SQL, Git. Estimated professional experience: 0.0 years, below the required 5+ years. Could not verify the required 4+ years of Python experience. Candidate does not satisfy all must-have requirements.",
+      "must_have_requirements_met": false,
+      "experience_years": 0.0,
+      "python_experience_years": 0.0,
+      "matched_sections": [
+        "skills",
+        "summary"
       ]
     }
   ],
   "metadata": {
     "required_skills": [
       "Python",
-      "Git"
+      "FastAPI or Django",
+      "REST APIs",
+      "SQL",
+      "Git",
+      "Software Development"
     ],
-    "required_professional_experience": 0,
-    "required_python_experience": 0,
-    "retrieval_latency_seconds": 2.7756
+    "required_professional_experience": 5,
+    "required_python_experience": 4,
+    "retrieval_latency_seconds": 2.8518
   }
 }
